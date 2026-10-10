@@ -1,0 +1,22 @@
+{
+  "name": "funny-bot",
+  "version": "1.0.0",
+  "description": "Funny Bot is a personal experimental project created to help me better understand Decision Language Models (DLMs) through hands-on coding and experimentation.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@openrouter/sdk": "^1.4.25",
+    "dotenv": "^18.0.7",
+    "grammy": "^1.46.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

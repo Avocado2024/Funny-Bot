@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="3G-_UNCbXjdBuif8lW2F" name="Page-1">
+        <mxGraphModel dx="513" dy="322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="mZYhvsZv9nBY_FTp8Auv-8" edge="1" parent="1" source="mZYhvsZv9nBY_FTp8Auv-2" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="mZYhvsZv9nBY_FTp8Auv-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="mZYhvsZv9nBY_FTp8Auv-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Message" vertex="1">
+                    <mxGeometry height="60" width="120" x="365" y="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="mZYhvsZv9nBY_FTp8Auv-16" edge="1" parent="1" source="mZYhvsZv9nBY_FTp8Auv-4" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="mZYhvsZv9nBY_FTp8Auv-15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="mZYhvsZv9nBY_FTp8Auv-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Decision Model" vertex="1">
+                    <mxGeometry height="60" width="120" x="365" y="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="mZYhvsZv9nBY_FTp8Auv-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Send" vertex="1">
+                    <mxGeometry height="60" width="120" x="365" y="370" as="geometry"/>
+                </mxCell>
+                <mxCell id="mZYhvsZv9nBY_FTp8Auv-17" edge="1" parent="1" source="mZYhvsZv9nBY_FTp8Auv-15" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="mZYhvsZv9nBY_FTp8Auv-12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="mZYhvsZv9nBY_FTp8Auv-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nekos API" vertex="1">
+                    <mxGeometry height="60" width="120" x="365" y="260" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
